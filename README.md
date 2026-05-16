@@ -1,6 +1,9 @@
-# 🕯️ Candle — Daily Cantonese
+# 🕯️ CANDLE — Daily Cantonese
 
-A daily Cantonese language learning app inspired by Wordle. Every day you get a new word and phrase to practice — guess the meaning, hear the pronunciation, and build your streak.
+> A daily Cantonese language learning app inspired by Wordle.  
+> Every day you get a new word and phrase to practice — guess the meaning, hear the pronunciation, and build your streak.
+
+🔗 **Repository:** [github.com/IgorLuna10/CANDLE](https://github.com/IgorLuna10/CANDLE)
 
 ---
 
@@ -13,13 +16,14 @@ A daily Cantonese language learning app inspired by Wordle. Every day you get a 
 - **Streak Tracking** — local streak counter that rewards consecutive correct answers
 - **Dark Mode** — full dark theme with no flash on load
 - **Offline-friendly** — dictionary is bundled locally; no API key required
+- **Wiktionary Integration** — live word lookup beyond the local dictionary, cached for offline use
 
 ---
 
 ## 🗂️ Project Structure
 
 ```
-candle/
+CANDLE/
 ├── public/
 │   ├── candle.png            # App icon
 │   └── dictionary.json       # 445 words + 108 phrases (local, no API needed)
@@ -32,14 +36,17 @@ candle/
 │   │   ├── PhraseDisplay.jsx # Phrase view with listen + copy
 │   │   └── Countdown.jsx     # Countdown to next daily content
 │   ├── services/
-│   │   └── candle-api.js     # Content selection, streak logic, TTS, guess evaluation
+│   │   └── candle-api.js     # Content selection, Wiktionary, streak, TTS, guess logic
 │   ├── App.jsx               # Root — routing between views, dark mode state
 │   ├── main.jsx              # React entry point
 │   └── index.css             # Tailwind base + dark mode body styles
 ├── index.html                # HTML shell with dark-mode flash prevention
 ├── tailwind.config.js
 ├── vite.config.js
-└── package.json
+├── postcss.config.js
+├── package.json
+├── .gitignore
+└── README.md
 ```
 
 ---
@@ -48,18 +55,18 @@ candle/
 
 ### Prerequisites
 - Node.js 18+
-- npm or yarn
+- npm
 
 ### Install & Run
 
 ```bash
-git clone https://github.com/your-username/candle.git
-cd candle
+git clone https://github.com/IgorLuna10/CANDLE.git
+cd CANDLE
 npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173).
+Open [http://localhost:5173](http://localhost:5173)
 
 ### Build for Production
 
@@ -72,15 +79,19 @@ npm run preview
 
 ## 📖 How the Dictionary Works
 
-The dictionary (`public/dictionary.json`) is **fully local** — no external API is required to run the app.
+The dictionary (`public/dictionary.json`) is **fully local** — no external API required to run the app.
 
-- **445 words** across categories: greetings, verbs, adjectives, pronouns, food, places, jobs, transport, and more
-- **108 phrases** covering: daily life, food, directions, health, social situations, celebrations, weather, and more
+- **445 words** — greetings, verbs, adjectives, pronouns, food, places, jobs, transport, and more
+- **108 phrases** — daily life, food, directions, health, social, celebrations, weather, and more
 
-Content is selected by **day of year**, so every user worldwide sees the same word on the same day — just like Wordle. The dictionary cycles after 445 days for words and 108 days for phrases. The "Daily Word" and "Spark Challenge" word are always guaranteed to be different entries.
+Content rotates by **day of year**, so every user worldwide sees the same word on the same day — just like Wordle.
 
-### Wiktionary (optional)
-`candle-api.js` includes a `fetchFromWiktionary()` method for future use. It is **not called automatically** — it's there as a foundation if you want to extend the app to fetch live definitions or additional vocabulary beyond the local dictionary.
+### Wiktionary (live layer)
+`candle-api.js` includes a fully wired `fetchFromWiktionary()` method that:
+- Fetches live word data from the Wiktionary MediaWiki API
+- Parses Jyutping and English definitions from the rendered HTML
+- Caches results in `localStorage` so each word is only ever fetched once
+- Falls back silently to local data on any failure
 
 ---
 
@@ -92,13 +103,14 @@ Content is selected by **day of year**, so every user worldwide sees the same wo
 | Vite | Build tool |
 | Tailwind CSS 3 | Styling |
 | Web Speech API | Text-to-speech (built-in browser) |
-| localStorage | Streak + progress tracking |
+| Wiktionary API | Live word enrichment |
+| localStorage | Streak, progress & wiki cache |
 
 ---
 
 ## 🤝 Contributing
 
-The easiest way to contribute is expanding `dictionary.json` with more words or phrases. Each entry follows this format:
+The easiest way to contribute is expanding `public/dictionary.json`. Each entry follows this format:
 
 ```json
 // Word

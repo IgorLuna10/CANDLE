@@ -1,0 +1,3324 @@
+{
+  "words": [
+    {
+      "chinese": "你好",
+      "jyutping": "nei5 hou2",
+      "english": "hello",
+      "category": "greeting"
+    },
+    {
+      "chinese": "多謝",
+      "jyutping": "do1 ze6",
+      "english": "thank you (for gifts)",
+      "category": "gratitude"
+    },
+    {
+      "chinese": "唔該",
+      "jyutping": "m4 goi1",
+      "english": "please/thank you (for service)",
+      "category": "politeness"
+    },
+    {
+      "chinese": "食飯",
+      "jyutping": "sik6 faan6",
+      "english": "to eat / have a meal",
+      "category": "food"
+    },
+    {
+      "chinese": "屋企",
+      "jyutping": "uk1 kei2",
+      "english": "home",
+      "category": "places"
+    },
+    {
+      "chinese": "朋友",
+      "jyutping": "pang4 jau5",
+      "english": "friend",
+      "category": "people"
+    },
+    {
+      "chinese": "靚仔",
+      "jyutping": "leng3 zai2",
+      "english": "handsome guy",
+      "category": "appearance"
+    },
+    {
+      "chinese": "靚女",
+      "jyutping": "leng3 neoi2",
+      "english": "pretty girl",
+      "category": "appearance"
+    },
+    {
+      "chinese": "香港",
+      "jyutping": "hoeng1 gong2",
+      "english": "Hong Kong",
+      "category": "places"
+    },
+    {
+      "chinese": "廣東話",
+      "jyutping": "gwong2 dung1 waa2",
+      "english": "Cantonese",
+      "category": "language"
+    },
+    {
+      "chinese": "飲茶",
+      "jyutping": "jam2 caa4",
+      "english": "drink tea / dim sum",
+      "category": "food"
+    },
+    {
+      "chinese": "好食",
+      "jyutping": "hou2 sik6",
+      "english": "delicious",
+      "category": "food"
+    },
+    {
+      "chinese": "開心",
+      "jyutping": "hoi1 sam1",
+      "english": "happy",
+      "category": "emotions"
+    },
+    {
+      "chinese": "辛苦",
+      "jyutping": "san1 fu2",
+      "english": "tough/hard work",
+      "category": "emotions"
+    },
+    {
+      "chinese": "我",
+      "jyutping": "ngo5",
+      "english": "I / me",
+      "category": "pronouns"
+    },
+    {
+      "chinese": "你",
+      "jyutping": "nei5",
+      "english": "you",
+      "category": "pronouns"
+    },
+    {
+      "chinese": "佢",
+      "jyutping": "keoi5",
+      "english": "he / she / it",
+      "category": "pronouns"
+    },
+    {
+      "chinese": "我哋",
+      "jyutping": "ngo5 dei6",
+      "english": "we / us",
+      "category": "pronouns"
+    },
+    {
+      "chinese": "你哋",
+      "jyutping": "nei5 dei6",
+      "english": "you (plural)",
+      "category": "pronouns"
+    },
+    {
+      "chinese": "佢哋",
+      "jyutping": "keoi5 dei6",
+      "english": "they / them",
+      "category": "pronouns"
+    },
+    {
+      "chinese": "人",
+      "jyutping": "jan4",
+      "english": "person / people",
+      "category": "people"
+    },
+    {
+      "chinese": "係",
+      "jyutping": "hai6",
+      "english": "to be (is/am/are)",
+      "category": "verbs"
+    },
+    {
+      "chinese": "有",
+      "jyutping": "jau5",
+      "english": "to have / there is",
+      "category": "verbs"
+    },
+    {
+      "chinese": "要",
+      "jyutping": "jiu3",
+      "english": "to want / need",
+      "category": "verbs"
+    },
+    {
+      "chinese": "識",
+      "jyutping": "sik1",
+      "english": "to know (a skill)",
+      "category": "verbs"
+    },
+    {
+      "chinese": "去",
+      "jyutping": "heoi3",
+      "english": "to go",
+      "category": "verbs"
+    },
+    {
+      "chinese": "嚟",
+      "jyutping": "lai4",
+      "english": "to come",
+      "category": "verbs"
+    },
+    {
+      "chinese": "做",
+      "jyutping": "zou6",
+      "english": "to do / make",
+      "category": "verbs"
+    },
+    {
+      "chinese": "睇",
+      "jyutping": "tai2",
+      "english": "to look / watch / read",
+      "category": "verbs"
+    },
+    {
+      "chinese": "講",
+      "jyutping": "gong2",
+      "english": "to speak / say",
+      "category": "verbs"
+    },
+    {
+      "chinese": "咩",
+      "jyutping": "me1",
+      "english": "what",
+      "category": "questions"
+    },
+    {
+      "chinese": "邊個",
+      "jyutping": "bin1 go3",
+      "english": "who / which one",
+      "category": "questions"
+    },
+    {
+      "chinese": "邊度",
+      "jyutping": "bin1 dou6",
+      "english": "where",
+      "category": "questions"
+    },
+    {
+      "chinese": "點解",
+      "jyutping": "dim2 gaai2",
+      "english": "why",
+      "category": "questions"
+    },
+    {
+      "chinese": "點",
+      "jyutping": "dim2",
+      "english": "how",
+      "category": "questions"
+    },
+    {
+      "chinese": "幾時",
+      "jyutping": "gei2 si4",
+      "english": "when",
+      "category": "questions"
+    },
+    {
+      "chinese": "好",
+      "jyutping": "hou2",
+      "english": "good / very",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "多",
+      "jyutping": "do1",
+      "english": "many / much",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "少",
+      "jyutping": "siu2",
+      "english": "few / little",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "大",
+      "jyutping": "daai6",
+      "english": "big",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "細",
+      "jyutping": "sai3",
+      "english": "small",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "靚",
+      "jyutping": "leng3",
+      "english": "beautiful / pretty",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "啱",
+      "jyutping": "ngaam1",
+      "english": "correct / right",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "飲",
+      "jyutping": "jam2",
+      "english": "to drink",
+      "category": "verbs"
+    },
+    {
+      "chinese": "買",
+      "jyutping": "maai5",
+      "english": "to buy",
+      "category": "verbs"
+    },
+    {
+      "chinese": "賣",
+      "jyutping": "maai6",
+      "english": "to sell",
+      "category": "verbs"
+    },
+    {
+      "chinese": "細路",
+      "jyutping": "sai3 lou6",
+      "english": "child",
+      "category": "people"
+    },
+    {
+      "chinese": "男人",
+      "jyutping": "naam4 jan4",
+      "english": "man",
+      "category": "people"
+    },
+    {
+      "chinese": "女人",
+      "jyutping": "neoi5 jan4",
+      "english": "woman",
+      "category": "people"
+    },
+    {
+      "chinese": "老師",
+      "jyutping": "lou5 si1",
+      "english": "teacher",
+      "category": "jobs"
+    },
+    {
+      "chinese": "醫生",
+      "jyutping": "ji1 sang1",
+      "english": "doctor",
+      "category": "jobs"
+    },
+    {
+      "chinese": "車",
+      "jyutping": "ce1",
+      "english": "car",
+      "category": "transport"
+    },
+    {
+      "chinese": "飛機",
+      "jyutping": "fei1 gei1",
+      "english": "airplane",
+      "category": "transport"
+    },
+    {
+      "chinese": "公司",
+      "jyutping": "gung1 si1",
+      "english": "company / office",
+      "category": "places"
+    },
+    {
+      "chinese": "學校",
+      "jyutping": "hok6 haau6",
+      "english": "school",
+      "category": "places"
+    },
+    {
+      "chinese": "超市",
+      "jyutping": "ciu1 si5",
+      "english": "supermarket",
+      "category": "places"
+    },
+    {
+      "chinese": "錢",
+      "jyutping": "cin2",
+      "english": "money",
+      "category": "shopping"
+    },
+    {
+      "chinese": "平",
+      "jyutping": "peng4",
+      "english": "cheap",
+      "category": "shopping"
+    },
+    {
+      "chinese": "貴",
+      "jyutping": "gwai3",
+      "english": "expensive",
+      "category": "shopping"
+    },
+    {
+      "chinese": "快",
+      "jyutping": "faai3",
+      "english": "fast",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "慢",
+      "jyutping": "maan6",
+      "english": "slow",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "凍",
+      "jyutping": "dung3",
+      "english": "cold",
+      "category": "weather"
+    },
+    {
+      "chinese": "熱",
+      "jyutping": "jit6",
+      "english": "hot",
+      "category": "weather"
+    },
+    {
+      "chinese": "落雨",
+      "jyutping": "lok6 jyu5",
+      "english": "rain",
+      "category": "weather"
+    },
+    {
+      "chinese": "聽日",
+      "jyutping": "ting1 jat6",
+      "english": "tomorrow",
+      "category": "time"
+    },
+    {
+      "chinese": "今日",
+      "jyutping": "gam1 jat6",
+      "english": "today",
+      "category": "time"
+    },
+    {
+      "chinese": "琴日",
+      "jyutping": "kam4 jat6",
+      "english": "yesterday",
+      "category": "time"
+    },
+    {
+      "chinese": "而家",
+      "jyutping": "ji4 gaa1",
+      "english": "now",
+      "category": "time"
+    },
+    {
+      "chinese": "星期",
+      "jyutping": "sing1 kei4",
+      "english": "week",
+      "category": "time"
+    },
+    {
+      "chinese": "月",
+      "jyutping": "jyut6",
+      "english": "month / moon",
+      "category": "time"
+    },
+    {
+      "chinese": "年",
+      "jyutping": "nin4",
+      "english": "year",
+      "category": "time"
+    },
+    {
+      "chinese": "一",
+      "jyutping": "jat1",
+      "english": "one",
+      "category": "numbers"
+    },
+    {
+      "chinese": "二",
+      "jyutping": "ji6",
+      "english": "two",
+      "category": "numbers"
+    },
+    {
+      "chinese": "三",
+      "jyutping": "saam1",
+      "english": "three",
+      "category": "numbers"
+    },
+    {
+      "chinese": "四",
+      "jyutping": "sei3",
+      "english": "four",
+      "category": "numbers"
+    },
+    {
+      "chinese": "五",
+      "jyutping": "ng5",
+      "english": "five",
+      "category": "numbers"
+    },
+    {
+      "chinese": "六",
+      "jyutping": "luk6",
+      "english": "six",
+      "category": "numbers"
+    },
+    {
+      "chinese": "七",
+      "jyutping": "cat1",
+      "english": "seven",
+      "category": "numbers"
+    },
+    {
+      "chinese": "八",
+      "jyutping": "baat3",
+      "english": "eight",
+      "category": "numbers"
+    },
+    {
+      "chinese": "九",
+      "jyutping": "gau2",
+      "english": "nine",
+      "category": "numbers"
+    },
+    {
+      "chinese": "十",
+      "jyutping": "sap6",
+      "english": "ten",
+      "category": "numbers"
+    },
+    {
+      "chinese": "百",
+      "jyutping": "baak3",
+      "english": "hundred",
+      "category": "numbers"
+    },
+    {
+      "chinese": "千",
+      "jyutping": "cin1",
+      "english": "thousand",
+      "category": "numbers"
+    },
+    {
+      "chinese": "萬",
+      "jyutping": "maan6",
+      "english": "ten thousand",
+      "category": "numbers"
+    },
+    {
+      "chinese": "零",
+      "jyutping": "ling4",
+      "english": "zero",
+      "category": "numbers"
+    },
+    {
+      "chinese": "第一",
+      "jyutping": "dai6 jat1",
+      "english": "first",
+      "category": "numbers"
+    },
+    {
+      "chinese": "第二",
+      "jyutping": "dai6 ji6",
+      "english": "second",
+      "category": "numbers"
+    },
+    {
+      "chinese": "第三",
+      "jyutping": "dai6 saam1",
+      "english": "third",
+      "category": "numbers"
+    },
+    {
+      "chinese": "半",
+      "jyutping": "bun3",
+      "english": "half",
+      "category": "numbers"
+    },
+    {
+      "chinese": "紅色",
+      "jyutping": "hung4 sik1",
+      "english": "red",
+      "category": "colors"
+    },
+    {
+      "chinese": "藍色",
+      "jyutping": "laam4 sik1",
+      "english": "blue",
+      "category": "colors"
+    },
+    {
+      "chinese": "綠色",
+      "jyutping": "luk6 sik1",
+      "english": "green",
+      "category": "colors"
+    },
+    {
+      "chinese": "黃色",
+      "jyutping": "wong4 sik1",
+      "english": "yellow",
+      "category": "colors"
+    },
+    {
+      "chinese": "白色",
+      "jyutping": "baak6 sik1",
+      "english": "white",
+      "category": "colors"
+    },
+    {
+      "chinese": "黑色",
+      "jyutping": "hak1 sik1",
+      "english": "black",
+      "category": "colors"
+    },
+    {
+      "chinese": "橙色",
+      "jyutping": "caang2 sik1",
+      "english": "orange",
+      "category": "colors"
+    },
+    {
+      "chinese": "紫色",
+      "jyutping": "zi2 sik1",
+      "english": "purple",
+      "category": "colors"
+    },
+    {
+      "chinese": "粉紅",
+      "jyutping": "fan2 hung4",
+      "english": "pink",
+      "category": "colors"
+    },
+    {
+      "chinese": "啡色",
+      "jyutping": "fe1 sik1",
+      "english": "brown",
+      "category": "colors"
+    },
+    {
+      "chinese": "灰色",
+      "jyutping": "fui1 sik1",
+      "english": "grey",
+      "category": "colors"
+    },
+    {
+      "chinese": "金色",
+      "jyutping": "gam1 sik1",
+      "english": "gold",
+      "category": "colors"
+    },
+    {
+      "chinese": "銀色",
+      "jyutping": "ngan4 sik1",
+      "english": "silver",
+      "category": "colors"
+    },
+    {
+      "chinese": "爸爸",
+      "jyutping": "baa4 baa1",
+      "english": "father / dad",
+      "category": "family"
+    },
+    {
+      "chinese": "媽媽",
+      "jyutping": "maa4 maa1",
+      "english": "mother / mom",
+      "category": "family"
+    },
+    {
+      "chinese": "父親",
+      "jyutping": "fu6 can1",
+      "english": "father (formal)",
+      "category": "family"
+    },
+    {
+      "chinese": "母親",
+      "jyutping": "mou5 can1",
+      "english": "mother (formal)",
+      "category": "family"
+    },
+    {
+      "chinese": "哥哥",
+      "jyutping": "go4 go1",
+      "english": "older brother",
+      "category": "family"
+    },
+    {
+      "chinese": "弟弟",
+      "jyutping": "dai6 dai2",
+      "english": "younger brother",
+      "category": "family"
+    },
+    {
+      "chinese": "姐姐",
+      "jyutping": "ze4 ze1",
+      "english": "older sister",
+      "category": "family"
+    },
+    {
+      "chinese": "妹妹",
+      "jyutping": "mui6 mui2",
+      "english": "younger sister",
+      "category": "family"
+    },
+    {
+      "chinese": "祖父",
+      "jyutping": "zou2 fu6",
+      "english": "paternal grandfather",
+      "category": "family"
+    },
+    {
+      "chinese": "祖母",
+      "jyutping": "zou2 mou5",
+      "english": "paternal grandmother",
+      "category": "family"
+    },
+    {
+      "chinese": "外公",
+      "jyutping": "ngoi6 gung1",
+      "english": "maternal grandfather",
+      "category": "family"
+    },
+    {
+      "chinese": "外婆",
+      "jyutping": "ngoi6 po4",
+      "english": "maternal grandmother",
+      "category": "family"
+    },
+    {
+      "chinese": "叔叔",
+      "jyutping": "suk1 suk1",
+      "english": "uncle (father's younger brother)",
+      "category": "family"
+    },
+    {
+      "chinese": "阿姨",
+      "jyutping": "aa3 ji4",
+      "english": "aunt (mother's sister)",
+      "category": "family"
+    },
+    {
+      "chinese": "表哥",
+      "jyutping": "biu2 go1",
+      "english": "older male cousin",
+      "category": "family"
+    },
+    {
+      "chinese": "丈夫",
+      "jyutping": "zoeng6 fu1",
+      "english": "husband",
+      "category": "family"
+    },
+    {
+      "chinese": "太太",
+      "jyutping": "taai3 taai2",
+      "english": "wife",
+      "category": "family"
+    },
+    {
+      "chinese": "兒子",
+      "jyutping": "ji4 zi2",
+      "english": "son",
+      "category": "family"
+    },
+    {
+      "chinese": "女兒",
+      "jyutping": "neoi5 ji4",
+      "english": "daughter",
+      "category": "family"
+    },
+    {
+      "chinese": "嬰兒",
+      "jyutping": "jing1 ji4",
+      "english": "baby",
+      "category": "family"
+    },
+    {
+      "chinese": "頭",
+      "jyutping": "tau4",
+      "english": "head",
+      "category": "body"
+    },
+    {
+      "chinese": "眼",
+      "jyutping": "ngaan5",
+      "english": "eye",
+      "category": "body"
+    },
+    {
+      "chinese": "耳",
+      "jyutping": "ji5",
+      "english": "ear",
+      "category": "body"
+    },
+    {
+      "chinese": "鼻",
+      "jyutping": "bei6",
+      "english": "nose",
+      "category": "body"
+    },
+    {
+      "chinese": "嘴",
+      "jyutping": "zeoi2",
+      "english": "mouth",
+      "category": "body"
+    },
+    {
+      "chinese": "牙",
+      "jyutping": "ngaa4",
+      "english": "tooth",
+      "category": "body"
+    },
+    {
+      "chinese": "舌頭",
+      "jyutping": "sit3 tau4",
+      "english": "tongue",
+      "category": "body"
+    },
+    {
+      "chinese": "頸",
+      "jyutping": "geng2",
+      "english": "neck",
+      "category": "body"
+    },
+    {
+      "chinese": "膊頭",
+      "jyutping": "bok3 tau4",
+      "english": "shoulder",
+      "category": "body"
+    },
+    {
+      "chinese": "手",
+      "jyutping": "sau2",
+      "english": "hand",
+      "category": "body"
+    },
+    {
+      "chinese": "手指",
+      "jyutping": "sau2 zi2",
+      "english": "finger",
+      "category": "body"
+    },
+    {
+      "chinese": "腳",
+      "jyutping": "goek3",
+      "english": "foot / leg",
+      "category": "body"
+    },
+    {
+      "chinese": "心臟",
+      "jyutping": "sam1 zong6",
+      "english": "heart",
+      "category": "body"
+    },
+    {
+      "chinese": "肚",
+      "jyutping": "tou5",
+      "english": "stomach / belly",
+      "category": "body"
+    },
+    {
+      "chinese": "背",
+      "jyutping": "bui3",
+      "english": "back",
+      "category": "body"
+    },
+    {
+      "chinese": "胸",
+      "jyutping": "hung1",
+      "english": "chest",
+      "category": "body"
+    },
+    {
+      "chinese": "皮膚",
+      "jyutping": "pei4 fu1",
+      "english": "skin",
+      "category": "body"
+    },
+    {
+      "chinese": "骨",
+      "jyutping": "gwat1",
+      "english": "bone",
+      "category": "body"
+    },
+    {
+      "chinese": "血",
+      "jyutping": "hyut3",
+      "english": "blood",
+      "category": "body"
+    },
+    {
+      "chinese": "腦",
+      "jyutping": "nou5",
+      "english": "brain",
+      "category": "body"
+    },
+    {
+      "chinese": "米飯",
+      "jyutping": "mai5 faan6",
+      "english": "rice (cooked)",
+      "category": "food"
+    },
+    {
+      "chinese": "麵",
+      "jyutping": "min6",
+      "english": "noodles",
+      "category": "food"
+    },
+    {
+      "chinese": "粥",
+      "jyutping": "zuk1",
+      "english": "congee / rice porridge",
+      "category": "food"
+    },
+    {
+      "chinese": "湯",
+      "jyutping": "tong1",
+      "english": "soup",
+      "category": "food"
+    },
+    {
+      "chinese": "魚",
+      "jyutping": "jyu4",
+      "english": "fish",
+      "category": "food"
+    },
+    {
+      "chinese": "雞",
+      "jyutping": "gai1",
+      "english": "chicken",
+      "category": "food"
+    },
+    {
+      "chinese": "豬肉",
+      "jyutping": "zyu1 juk6",
+      "english": "pork",
+      "category": "food"
+    },
+    {
+      "chinese": "牛肉",
+      "jyutping": "ngau4 juk6",
+      "english": "beef",
+      "category": "food"
+    },
+    {
+      "chinese": "蝦",
+      "jyutping": "haa1",
+      "english": "shrimp / prawn",
+      "category": "food"
+    },
+    {
+      "chinese": "蔬菜",
+      "jyutping": "so1 coi3",
+      "english": "vegetables",
+      "category": "food"
+    },
+    {
+      "chinese": "生果",
+      "jyutping": "saang1 gwo2",
+      "english": "fruit",
+      "category": "food"
+    },
+    {
+      "chinese": "蘋果",
+      "jyutping": "ping4 gwo2",
+      "english": "apple",
+      "category": "food"
+    },
+    {
+      "chinese": "香蕉",
+      "jyutping": "hoeng1 ziu1",
+      "english": "banana",
+      "category": "food"
+    },
+    {
+      "chinese": "橙",
+      "jyutping": "caang2",
+      "english": "orange",
+      "category": "food"
+    },
+    {
+      "chinese": "麵包",
+      "jyutping": "min6 baau1",
+      "english": "bread",
+      "category": "food"
+    },
+    {
+      "chinese": "雞蛋",
+      "jyutping": "gai1 daan2",
+      "english": "egg",
+      "category": "food"
+    },
+    {
+      "chinese": "豆腐",
+      "jyutping": "dau6 fu6",
+      "english": "tofu",
+      "category": "food"
+    },
+    {
+      "chinese": "餃子",
+      "jyutping": "gaau2 zi2",
+      "english": "dumplings",
+      "category": "food"
+    },
+    {
+      "chinese": "燒賣",
+      "jyutping": "siu1 maai2",
+      "english": "siu mai (dim sum)",
+      "category": "food"
+    },
+    {
+      "chinese": "叉燒包",
+      "jyutping": "caa1 siu1 baau1",
+      "english": "BBQ pork bun",
+      "category": "food"
+    },
+    {
+      "chinese": "蛋撻",
+      "jyutping": "daan6 taat3",
+      "english": "egg tart",
+      "category": "food"
+    },
+    {
+      "chinese": "炒飯",
+      "jyutping": "caau2 faan6",
+      "english": "fried rice",
+      "category": "food"
+    },
+    {
+      "chinese": "炒麵",
+      "jyutping": "caau2 min6",
+      "english": "fried noodles",
+      "category": "food"
+    },
+    {
+      "chinese": "火鍋",
+      "jyutping": "fo2 wo1",
+      "english": "hot pot",
+      "category": "food"
+    },
+    {
+      "chinese": "茶",
+      "jyutping": "caa4",
+      "english": "tea",
+      "category": "food"
+    },
+    {
+      "chinese": "咖啡",
+      "jyutping": "gaa3 fe1",
+      "english": "coffee",
+      "category": "food"
+    },
+    {
+      "chinese": "水",
+      "jyutping": "seoi2",
+      "english": "water",
+      "category": "food"
+    },
+    {
+      "chinese": "果汁",
+      "jyutping": "gwo2 zap1",
+      "english": "juice",
+      "category": "food"
+    },
+    {
+      "chinese": "啤酒",
+      "jyutping": "be1 zau2",
+      "english": "beer",
+      "category": "food"
+    },
+    {
+      "chinese": "奶",
+      "jyutping": "naai5",
+      "english": "milk",
+      "category": "food"
+    },
+    {
+      "chinese": "糖",
+      "jyutping": "tong4",
+      "english": "sugar / sweets",
+      "category": "food"
+    },
+    {
+      "chinese": "鹽",
+      "jyutping": "jim4",
+      "english": "salt",
+      "category": "food"
+    },
+    {
+      "chinese": "醬油",
+      "jyutping": "zoeng3 jau4",
+      "english": "soy sauce",
+      "category": "food"
+    },
+    {
+      "chinese": "辣",
+      "jyutping": "laat6",
+      "english": "spicy",
+      "category": "food"
+    },
+    {
+      "chinese": "甜",
+      "jyutping": "tim4",
+      "english": "sweet",
+      "category": "food"
+    },
+    {
+      "chinese": "酸",
+      "jyutping": "syun1",
+      "english": "sour",
+      "category": "food"
+    },
+    {
+      "chinese": "苦",
+      "jyutping": "fu2",
+      "english": "bitter",
+      "category": "food"
+    },
+    {
+      "chinese": "鹹",
+      "jyutping": "haam4",
+      "english": "salty",
+      "category": "food"
+    },
+    {
+      "chinese": "狗",
+      "jyutping": "gau2",
+      "english": "dog",
+      "category": "animals"
+    },
+    {
+      "chinese": "貓",
+      "jyutping": "maau1",
+      "english": "cat",
+      "category": "animals"
+    },
+    {
+      "chinese": "鳥",
+      "jyutping": "niu5",
+      "english": "bird",
+      "category": "animals"
+    },
+    {
+      "chinese": "牛",
+      "jyutping": "ngau4",
+      "english": "cow",
+      "category": "animals"
+    },
+    {
+      "chinese": "豬",
+      "jyutping": "zyu1",
+      "english": "pig",
+      "category": "animals"
+    },
+    {
+      "chinese": "馬",
+      "jyutping": "maa5",
+      "english": "horse",
+      "category": "animals"
+    },
+    {
+      "chinese": "羊",
+      "jyutping": "joeng4",
+      "english": "sheep / goat",
+      "category": "animals"
+    },
+    {
+      "chinese": "兔",
+      "jyutping": "tou3",
+      "english": "rabbit",
+      "category": "animals"
+    },
+    {
+      "chinese": "蛇",
+      "jyutping": "se4",
+      "english": "snake",
+      "category": "animals"
+    },
+    {
+      "chinese": "老虎",
+      "jyutping": "lou5 fu2",
+      "english": "tiger",
+      "category": "animals"
+    },
+    {
+      "chinese": "獅子",
+      "jyutping": "si1 zi2",
+      "english": "lion",
+      "category": "animals"
+    },
+    {
+      "chinese": "大象",
+      "jyutping": "daai6 zoeng6",
+      "english": "elephant",
+      "category": "animals"
+    },
+    {
+      "chinese": "熊貓",
+      "jyutping": "hung4 maau1",
+      "english": "panda",
+      "category": "animals"
+    },
+    {
+      "chinese": "猴子",
+      "jyutping": "hau4 zi2",
+      "english": "monkey",
+      "category": "animals"
+    },
+    {
+      "chinese": "烏龜",
+      "jyutping": "wu1 gwai1",
+      "english": "turtle",
+      "category": "animals"
+    },
+    {
+      "chinese": "衫",
+      "jyutping": "saam1",
+      "english": "shirt / top",
+      "category": "clothing"
+    },
+    {
+      "chinese": "褲",
+      "jyutping": "fu3",
+      "english": "pants / trousers",
+      "category": "clothing"
+    },
+    {
+      "chinese": "裙",
+      "jyutping": "kwan4",
+      "english": "skirt / dress",
+      "category": "clothing"
+    },
+    {
+      "chinese": "鞋",
+      "jyutping": "haai4",
+      "english": "shoes",
+      "category": "clothing"
+    },
+    {
+      "chinese": "襪",
+      "jyutping": "mat6",
+      "english": "socks",
+      "category": "clothing"
+    },
+    {
+      "chinese": "外套",
+      "jyutping": "ngoi6 tou3",
+      "english": "jacket / coat",
+      "category": "clothing"
+    },
+    {
+      "chinese": "帽",
+      "jyutping": "mou2",
+      "english": "hat",
+      "category": "clothing"
+    },
+    {
+      "chinese": "手袋",
+      "jyutping": "sau2 doi2",
+      "english": "handbag",
+      "category": "clothing"
+    },
+    {
+      "chinese": "眼鏡",
+      "jyutping": "ngaan5 geng2",
+      "english": "glasses",
+      "category": "clothing"
+    },
+    {
+      "chinese": "戒指",
+      "jyutping": "gaai3 zi2",
+      "english": "ring",
+      "category": "clothing"
+    },
+    {
+      "chinese": "頸鏈",
+      "jyutping": "geng2 lin2",
+      "english": "necklace",
+      "category": "clothing"
+    },
+    {
+      "chinese": "手錶",
+      "jyutping": "sau2 biu1",
+      "english": "wristwatch",
+      "category": "clothing"
+    },
+    {
+      "chinese": "枱",
+      "jyutping": "toi2",
+      "english": "table",
+      "category": "household"
+    },
+    {
+      "chinese": "椅",
+      "jyutping": "ji2",
+      "english": "chair",
+      "category": "household"
+    },
+    {
+      "chinese": "床",
+      "jyutping": "cong4",
+      "english": "bed",
+      "category": "household"
+    },
+    {
+      "chinese": "梳化",
+      "jyutping": "so1 faa3",
+      "english": "sofa / couch",
+      "category": "household"
+    },
+    {
+      "chinese": "雪櫃",
+      "jyutping": "syut3 gwai6",
+      "english": "refrigerator",
+      "category": "household"
+    },
+    {
+      "chinese": "電視",
+      "jyutping": "din6 si6",
+      "english": "television",
+      "category": "household"
+    },
+    {
+      "chinese": "洗衣機",
+      "jyutping": "sai2 ji1 gei1",
+      "english": "washing machine",
+      "category": "household"
+    },
+    {
+      "chinese": "冷氣",
+      "jyutping": "laang5 hei3",
+      "english": "air conditioner",
+      "category": "household"
+    },
+    {
+      "chinese": "電燈",
+      "jyutping": "din6 dang1",
+      "english": "electric light",
+      "category": "household"
+    },
+    {
+      "chinese": "鑰匙",
+      "jyutping": "jok6 si4",
+      "english": "key",
+      "category": "household"
+    },
+    {
+      "chinese": "窗",
+      "jyutping": "coeng1",
+      "english": "window",
+      "category": "household"
+    },
+    {
+      "chinese": "門",
+      "jyutping": "mun4",
+      "english": "door",
+      "category": "household"
+    },
+    {
+      "chinese": "廁所",
+      "jyutping": "ci3 so2",
+      "english": "bathroom / toilet",
+      "category": "household"
+    },
+    {
+      "chinese": "廚房",
+      "jyutping": "cyu4 fong2",
+      "english": "kitchen",
+      "category": "household"
+    },
+    {
+      "chinese": "睡房",
+      "jyutping": "seoi6 fong2",
+      "english": "bedroom",
+      "category": "household"
+    },
+    {
+      "chinese": "電話",
+      "jyutping": "din6 waa6",
+      "english": "phone",
+      "category": "technology"
+    },
+    {
+      "chinese": "手機",
+      "jyutping": "sau2 gei1",
+      "english": "mobile phone",
+      "category": "technology"
+    },
+    {
+      "chinese": "電腦",
+      "jyutping": "din6 nou5",
+      "english": "computer",
+      "category": "technology"
+    },
+    {
+      "chinese": "網絡",
+      "jyutping": "mong5 lok3",
+      "english": "internet / network",
+      "category": "technology"
+    },
+    {
+      "chinese": "WhatsApp",
+      "jyutping": "wats1 ep1",
+      "english": "WhatsApp",
+      "category": "technology"
+    },
+    {
+      "chinese": "應用程式",
+      "jyutping": "jing3 jung6 cing4 sik1",
+      "english": "app",
+      "category": "technology"
+    },
+    {
+      "chinese": "密碼",
+      "jyutping": "mat6 maa5",
+      "english": "password",
+      "category": "technology"
+    },
+    {
+      "chinese": "充電",
+      "jyutping": "cung1 din6",
+      "english": "to charge (battery)",
+      "category": "technology"
+    },
+    {
+      "chinese": "相機",
+      "jyutping": "soeng3 gei1",
+      "english": "camera",
+      "category": "technology"
+    },
+    {
+      "chinese": "耳機",
+      "jyutping": "ji5 gei1",
+      "english": "earphones",
+      "category": "technology"
+    },
+    {
+      "chinese": "醫院",
+      "jyutping": "ji1 jyun2",
+      "english": "hospital",
+      "category": "health"
+    },
+    {
+      "chinese": "藥",
+      "jyutping": "joek6",
+      "english": "medicine",
+      "category": "health"
+    },
+    {
+      "chinese": "藥房",
+      "jyutping": "joek6 fong2",
+      "english": "pharmacy",
+      "category": "health"
+    },
+    {
+      "chinese": "病",
+      "jyutping": "beng6",
+      "english": "sick / illness",
+      "category": "health"
+    },
+    {
+      "chinese": "痛",
+      "jyutping": "tung3",
+      "english": "pain / hurts",
+      "category": "health"
+    },
+    {
+      "chinese": "發燒",
+      "jyutping": "faat3 siu1",
+      "english": "fever",
+      "category": "health"
+    },
+    {
+      "chinese": "咳嗽",
+      "jyutping": "kat1 sau3",
+      "english": "cough",
+      "category": "health"
+    },
+    {
+      "chinese": "頭痛",
+      "jyutping": "tau4 tung3",
+      "english": "headache",
+      "category": "health"
+    },
+    {
+      "chinese": "肚痛",
+      "jyutping": "tou5 tung3",
+      "english": "stomach ache",
+      "category": "health"
+    },
+    {
+      "chinese": "過敏",
+      "jyutping": "gwo3 man5",
+      "english": "allergy",
+      "category": "health"
+    },
+    {
+      "chinese": "受傷",
+      "jyutping": "sau6 soeng1",
+      "english": "injured",
+      "category": "health"
+    },
+    {
+      "chinese": "手術",
+      "jyutping": "sau2 sot6",
+      "english": "surgery / operation",
+      "category": "health"
+    },
+    {
+      "chinese": "護士",
+      "jyutping": "wu6 si6",
+      "english": "nurse",
+      "category": "health"
+    },
+    {
+      "chinese": "波",
+      "jyutping": "bo1",
+      "english": "ball / sport",
+      "category": "sports"
+    },
+    {
+      "chinese": "踢波",
+      "jyutping": "tek3 bo1",
+      "english": "play football",
+      "category": "sports"
+    },
+    {
+      "chinese": "打波",
+      "jyutping": "daa2 bo1",
+      "english": "play ball sports",
+      "category": "sports"
+    },
+    {
+      "chinese": "游水",
+      "jyutping": "jau4 seoi2",
+      "english": "to swim",
+      "category": "sports"
+    },
+    {
+      "chinese": "跑步",
+      "jyutping": "paau2 bou6",
+      "english": "to run / jogging",
+      "category": "sports"
+    },
+    {
+      "chinese": "行山",
+      "jyutping": "haang4 saan1",
+      "english": "hiking",
+      "category": "sports"
+    },
+    {
+      "chinese": "瑜伽",
+      "jyutping": "jyu4 gaa1",
+      "english": "yoga",
+      "category": "sports"
+    },
+    {
+      "chinese": "打麻雀",
+      "jyutping": "daa2 maa4 zoek3",
+      "english": "play mahjong",
+      "category": "sports"
+    },
+    {
+      "chinese": "下棋",
+      "jyutping": "haa6 kei4",
+      "english": "play chess",
+      "category": "sports"
+    },
+    {
+      "chinese": "音樂",
+      "jyutping": "jam1 ngok6",
+      "english": "music",
+      "category": "hobbies"
+    },
+    {
+      "chinese": "唱歌",
+      "jyutping": "coeng3 go1",
+      "english": "singing",
+      "category": "hobbies"
+    },
+    {
+      "chinese": "跳舞",
+      "jyutping": "tiu3 mou5",
+      "english": "dancing",
+      "category": "hobbies"
+    },
+    {
+      "chinese": "畫畫",
+      "jyutping": "waak6 waak2",
+      "english": "drawing / painting",
+      "category": "hobbies"
+    },
+    {
+      "chinese": "煮飯",
+      "jyutping": "zyu2 faan6",
+      "english": "cooking",
+      "category": "hobbies"
+    },
+    {
+      "chinese": "旅行",
+      "jyutping": "leoi5 hang4",
+      "english": "travel",
+      "category": "hobbies"
+    },
+    {
+      "chinese": "睇書",
+      "jyutping": "tai2 syu1",
+      "english": "reading",
+      "category": "hobbies"
+    },
+    {
+      "chinese": "打遊戲",
+      "jyutping": "daa2 jau4 hei3",
+      "english": "play video games",
+      "category": "hobbies"
+    },
+    {
+      "chinese": "天空",
+      "jyutping": "tin1 hung1",
+      "english": "sky",
+      "category": "nature"
+    },
+    {
+      "chinese": "太陽",
+      "jyutping": "taai3 joeng4",
+      "english": "sun",
+      "category": "nature"
+    },
+    {
+      "chinese": "月亮",
+      "jyutping": "jyut6 loeng6",
+      "english": "moon",
+      "category": "nature"
+    },
+    {
+      "chinese": "星星",
+      "jyutping": "sing1 sing1",
+      "english": "stars",
+      "category": "nature"
+    },
+    {
+      "chinese": "山",
+      "jyutping": "saan1",
+      "english": "mountain",
+      "category": "nature"
+    },
+    {
+      "chinese": "海",
+      "jyutping": "hoi2",
+      "english": "sea / ocean",
+      "category": "nature"
+    },
+    {
+      "chinese": "河",
+      "jyutping": "ho4",
+      "english": "river",
+      "category": "nature"
+    },
+    {
+      "chinese": "樹",
+      "jyutping": "syu6",
+      "english": "tree",
+      "category": "nature"
+    },
+    {
+      "chinese": "花",
+      "jyutping": "faa1",
+      "english": "flower",
+      "category": "nature"
+    },
+    {
+      "chinese": "草",
+      "jyutping": "cou2",
+      "english": "grass",
+      "category": "nature"
+    },
+    {
+      "chinese": "風",
+      "jyutping": "fung1",
+      "english": "wind",
+      "category": "nature"
+    },
+    {
+      "chinese": "雲",
+      "jyutping": "wan4",
+      "english": "cloud",
+      "category": "nature"
+    },
+    {
+      "chinese": "雪",
+      "jyutping": "syut3",
+      "english": "snow",
+      "category": "nature"
+    },
+    {
+      "chinese": "地",
+      "jyutping": "dei6",
+      "english": "ground / earth",
+      "category": "nature"
+    },
+    {
+      "chinese": "石",
+      "jyutping": "sek6",
+      "english": "rock / stone",
+      "category": "nature"
+    },
+    {
+      "chinese": "分鐘",
+      "jyutping": "fan1 zung1",
+      "english": "minute",
+      "category": "time"
+    },
+    {
+      "chinese": "鐘頭",
+      "jyutping": "zung1 tau4",
+      "english": "hour",
+      "category": "time"
+    },
+    {
+      "chinese": "朝早",
+      "jyutping": "ziu1 zou2",
+      "english": "morning",
+      "category": "time"
+    },
+    {
+      "chinese": "下晝",
+      "jyutping": "haa6 zau3",
+      "english": "afternoon",
+      "category": "time"
+    },
+    {
+      "chinese": "夜晚",
+      "jyutping": "je6 maan5",
+      "english": "evening / night",
+      "category": "time"
+    },
+    {
+      "chinese": "星期一",
+      "jyutping": "sing1 kei4 jat1",
+      "english": "Monday",
+      "category": "time"
+    },
+    {
+      "chinese": "星期二",
+      "jyutping": "sing1 kei4 ji6",
+      "english": "Tuesday",
+      "category": "time"
+    },
+    {
+      "chinese": "星期三",
+      "jyutping": "sing1 kei4 saam1",
+      "english": "Wednesday",
+      "category": "time"
+    },
+    {
+      "chinese": "星期四",
+      "jyutping": "sing1 kei4 sei3",
+      "english": "Thursday",
+      "category": "time"
+    },
+    {
+      "chinese": "星期五",
+      "jyutping": "sing1 kei4 ng5",
+      "english": "Friday",
+      "category": "time"
+    },
+    {
+      "chinese": "星期六",
+      "jyutping": "sing1 kei4 luk6",
+      "english": "Saturday",
+      "category": "time"
+    },
+    {
+      "chinese": "星期日",
+      "jyutping": "sing1 kei4 jat6",
+      "english": "Sunday",
+      "category": "time"
+    },
+    {
+      "chinese": "春天",
+      "jyutping": "ceon1 tin1",
+      "english": "spring",
+      "category": "time"
+    },
+    {
+      "chinese": "夏天",
+      "jyutping": "haa6 tin1",
+      "english": "summer",
+      "category": "time"
+    },
+    {
+      "chinese": "秋天",
+      "jyutping": "cau1 tin1",
+      "english": "autumn",
+      "category": "time"
+    },
+    {
+      "chinese": "冬天",
+      "jyutping": "dung1 tin1",
+      "english": "winter",
+      "category": "time"
+    },
+    {
+      "chinese": "節日",
+      "jyutping": "zit3 jat6",
+      "english": "holiday / festival",
+      "category": "time"
+    },
+    {
+      "chinese": "生日",
+      "jyutping": "saang1 jat6",
+      "english": "birthday",
+      "category": "time"
+    },
+    {
+      "chinese": "新年",
+      "jyutping": "san1 nin4",
+      "english": "New Year",
+      "category": "time"
+    },
+    {
+      "chinese": "舊年",
+      "jyutping": "gau6 nin4",
+      "english": "last year",
+      "category": "time"
+    },
+    {
+      "chinese": "下年",
+      "jyutping": "haa6 nin4",
+      "english": "next year",
+      "category": "time"
+    },
+    {
+      "chinese": "上個月",
+      "jyutping": "soeng6 go3 jyut6",
+      "english": "last month",
+      "category": "time"
+    },
+    {
+      "chinese": "下個月",
+      "jyutping": "haa6 go3 jyut6",
+      "english": "next month",
+      "category": "time"
+    },
+    {
+      "chinese": "左",
+      "jyutping": "zo2",
+      "english": "left",
+      "category": "directions"
+    },
+    {
+      "chinese": "右",
+      "jyutping": "jau6",
+      "english": "right",
+      "category": "directions"
+    },
+    {
+      "chinese": "前面",
+      "jyutping": "cin4 min6",
+      "english": "in front",
+      "category": "directions"
+    },
+    {
+      "chinese": "後面",
+      "jyutping": "hau6 min6",
+      "english": "behind",
+      "category": "directions"
+    },
+    {
+      "chinese": "上面",
+      "jyutping": "soeng6 min6",
+      "english": "above / upstairs",
+      "category": "directions"
+    },
+    {
+      "chinese": "下面",
+      "jyutping": "haa6 min6",
+      "english": "below / downstairs",
+      "category": "directions"
+    },
+    {
+      "chinese": "附近",
+      "jyutping": "fu6 gan6",
+      "english": "nearby",
+      "category": "directions"
+    },
+    {
+      "chinese": "對面",
+      "jyutping": "deoi3 min6",
+      "english": "opposite side",
+      "category": "directions"
+    },
+    {
+      "chinese": "入面",
+      "jyutping": "jap6 min6",
+      "english": "inside",
+      "category": "directions"
+    },
+    {
+      "chinese": "出面",
+      "jyutping": "ceot1 min6",
+      "english": "outside",
+      "category": "directions"
+    },
+    {
+      "chinese": "地鐵站",
+      "jyutping": "dei6 tit3 zaam6",
+      "english": "MTR station",
+      "category": "places"
+    },
+    {
+      "chinese": "巴士站",
+      "jyutping": "baa1 si2 zaam6",
+      "english": "bus stop",
+      "category": "places"
+    },
+    {
+      "chinese": "機場",
+      "jyutping": "gei1 coeng4",
+      "english": "airport",
+      "category": "places"
+    },
+    {
+      "chinese": "酒店",
+      "jyutping": "zau2 dim3",
+      "english": "hotel",
+      "category": "places"
+    },
+    {
+      "chinese": "餐廳",
+      "jyutping": "caan1 teng1",
+      "english": "restaurant",
+      "category": "places"
+    },
+    {
+      "chinese": "咖啡店",
+      "jyutping": "gaa3 fe1 dim3",
+      "english": "café",
+      "category": "places"
+    },
+    {
+      "chinese": "銀行",
+      "jyutping": "ngan4 hong4",
+      "english": "bank",
+      "category": "places"
+    },
+    {
+      "chinese": "郵局",
+      "jyutping": "jau4 guk6",
+      "english": "post office",
+      "category": "places"
+    },
+    {
+      "chinese": "圖書館",
+      "jyutping": "tou4 syu1 gun2",
+      "english": "library",
+      "category": "places"
+    },
+    {
+      "chinese": "公園",
+      "jyutping": "gung1 jyun2",
+      "english": "park",
+      "category": "places"
+    },
+    {
+      "chinese": "街市",
+      "jyutping": "gaai1 si5",
+      "english": "wet market",
+      "category": "places"
+    },
+    {
+      "chinese": "商場",
+      "jyutping": "soeng1 coeng4",
+      "english": "shopping mall",
+      "category": "places"
+    },
+    {
+      "chinese": "海灘",
+      "jyutping": "hoi2 taan1",
+      "english": "beach",
+      "category": "places"
+    },
+    {
+      "chinese": "律師",
+      "jyutping": "leot6 si1",
+      "english": "lawyer",
+      "category": "jobs"
+    },
+    {
+      "chinese": "工程師",
+      "jyutping": "gung1 cing4 si1",
+      "english": "engineer",
+      "category": "jobs"
+    },
+    {
+      "chinese": "廚師",
+      "jyutping": "cyu4 si1",
+      "english": "chef / cook",
+      "category": "jobs"
+    },
+    {
+      "chinese": "司機",
+      "jyutping": "si1 gei1",
+      "english": "driver",
+      "category": "jobs"
+    },
+    {
+      "chinese": "警察",
+      "jyutping": "ging2 caat3",
+      "english": "police officer",
+      "category": "jobs"
+    },
+    {
+      "chinese": "消防員",
+      "jyutping": "siu1 fong4 jyun4",
+      "english": "firefighter",
+      "category": "jobs"
+    },
+    {
+      "chinese": "會計師",
+      "jyutping": "wui6 gai3 si1",
+      "english": "accountant",
+      "category": "jobs"
+    },
+    {
+      "chinese": "記者",
+      "jyutping": "gei3 ze2",
+      "english": "journalist",
+      "category": "jobs"
+    },
+    {
+      "chinese": "設計師",
+      "jyutping": "cit3 gai3 si1",
+      "english": "designer",
+      "category": "jobs"
+    },
+    {
+      "chinese": "程序員",
+      "jyutping": "cing4 siu6 jyun4",
+      "english": "programmer",
+      "category": "jobs"
+    },
+    {
+      "chinese": "學生",
+      "jyutping": "hok6 saang1",
+      "english": "student",
+      "category": "jobs"
+    },
+    {
+      "chinese": "老闆",
+      "jyutping": "lou5 baan2",
+      "english": "boss / employer",
+      "category": "jobs"
+    },
+    {
+      "chinese": "員工",
+      "jyutping": "jyun4 gung1",
+      "english": "employee",
+      "category": "jobs"
+    },
+    {
+      "chinese": "地鐵",
+      "jyutping": "dei6 tit3",
+      "english": "MTR / metro",
+      "category": "transport"
+    },
+    {
+      "chinese": "巴士",
+      "jyutping": "baa1 si2",
+      "english": "bus",
+      "category": "transport"
+    },
+    {
+      "chinese": "的士",
+      "jyutping": "dik1 si2",
+      "english": "taxi",
+      "category": "transport"
+    },
+    {
+      "chinese": "渡輪",
+      "jyutping": "dou6 leon4",
+      "english": "ferry",
+      "category": "transport"
+    },
+    {
+      "chinese": "單車",
+      "jyutping": "daan1 ce1",
+      "english": "bicycle",
+      "category": "transport"
+    },
+    {
+      "chinese": "火車",
+      "jyutping": "fo2 ce1",
+      "english": "train",
+      "category": "transport"
+    },
+    {
+      "chinese": "船",
+      "jyutping": "syun4",
+      "english": "boat / ship",
+      "category": "transport"
+    },
+    {
+      "chinese": "電梯",
+      "jyutping": "din6 tai1",
+      "english": "elevator / lift",
+      "category": "transport"
+    },
+    {
+      "chinese": "扶手梯",
+      "jyutping": "fu4 sau2 tai1",
+      "english": "escalator",
+      "category": "transport"
+    },
+    {
+      "chinese": "想",
+      "jyutping": "soeng2",
+      "english": "to want / wish / think",
+      "category": "verbs"
+    },
+    {
+      "chinese": "知",
+      "jyutping": "zi1",
+      "english": "to know (a fact)",
+      "category": "verbs"
+    },
+    {
+      "chinese": "明白",
+      "jyutping": "ming4 baak6",
+      "english": "to understand",
+      "category": "verbs"
+    },
+    {
+      "chinese": "記得",
+      "jyutping": "gei3 dak1",
+      "english": "to remember",
+      "category": "verbs"
+    },
+    {
+      "chinese": "忘記",
+      "jyutping": "mong4 gei3",
+      "english": "to forget",
+      "category": "verbs"
+    },
+    {
+      "chinese": "幫",
+      "jyutping": "bong1",
+      "english": "to help",
+      "category": "verbs"
+    },
+    {
+      "chinese": "等",
+      "jyutping": "dang2",
+      "english": "to wait",
+      "category": "verbs"
+    },
+    {
+      "chinese": "搵",
+      "jyutping": "wan2",
+      "english": "to look for / find",
+      "category": "verbs"
+    },
+    {
+      "chinese": "開",
+      "jyutping": "hoi1",
+      "english": "to open",
+      "category": "verbs"
+    },
+    {
+      "chinese": "關",
+      "jyutping": "gwaan1",
+      "english": "to close / turn off",
+      "category": "verbs"
+    },
+    {
+      "chinese": "打",
+      "jyutping": "daa2",
+      "english": "to hit / beat / call (phone)",
+      "category": "verbs"
+    },
+    {
+      "chinese": "拎",
+      "jyutping": "lim1",
+      "english": "to carry / take",
+      "category": "verbs"
+    },
+    {
+      "chinese": "放",
+      "jyutping": "fong3",
+      "english": "to put / release",
+      "category": "verbs"
+    },
+    {
+      "chinese": "坐",
+      "jyutping": "co5",
+      "english": "to sit",
+      "category": "verbs"
+    },
+    {
+      "chinese": "企",
+      "jyutping": "kei5",
+      "english": "to stand",
+      "category": "verbs"
+    },
+    {
+      "chinese": "行",
+      "jyutping": "haang4",
+      "english": "to walk",
+      "category": "verbs"
+    },
+    {
+      "chinese": "跑",
+      "jyutping": "paau2",
+      "english": "to run",
+      "category": "verbs"
+    },
+    {
+      "chinese": "笑",
+      "jyutping": "siu3",
+      "english": "to laugh / smile",
+      "category": "verbs"
+    },
+    {
+      "chinese": "喊",
+      "jyutping": "haam3",
+      "english": "to cry",
+      "category": "verbs"
+    },
+    {
+      "chinese": "攞",
+      "jyutping": "lo2",
+      "english": "to take / get",
+      "category": "verbs"
+    },
+    {
+      "chinese": "俾",
+      "jyutping": "bei2",
+      "english": "to give",
+      "category": "verbs"
+    },
+    {
+      "chinese": "問",
+      "jyutping": "man6",
+      "english": "to ask",
+      "category": "verbs"
+    },
+    {
+      "chinese": "答",
+      "jyutping": "daap3",
+      "english": "to answer",
+      "category": "verbs"
+    },
+    {
+      "chinese": "叫",
+      "jyutping": "giu3",
+      "english": "to call / shout / order",
+      "category": "verbs"
+    },
+    {
+      "chinese": "聽",
+      "jyutping": "teng1",
+      "english": "to listen / hear",
+      "category": "verbs"
+    },
+    {
+      "chinese": "寫",
+      "jyutping": "se2",
+      "english": "to write",
+      "category": "verbs"
+    },
+    {
+      "chinese": "畫",
+      "jyutping": "waak6",
+      "english": "to draw",
+      "category": "verbs"
+    },
+    {
+      "chinese": "玩",
+      "jyutping": "waan2",
+      "english": "to play",
+      "category": "verbs"
+    },
+    {
+      "chinese": "休息",
+      "jyutping": "jau1 sik1",
+      "english": "to rest",
+      "category": "verbs"
+    },
+    {
+      "chinese": "睡覺",
+      "jyutping": "seoi6 gaau3",
+      "english": "to sleep",
+      "category": "verbs"
+    },
+    {
+      "chinese": "起身",
+      "jyutping": "hei2 san1",
+      "english": "to wake up / get up",
+      "category": "verbs"
+    },
+    {
+      "chinese": "洗澡",
+      "jyutping": "sai2 zou2",
+      "english": "to shower / bathe",
+      "category": "verbs"
+    },
+    {
+      "chinese": "換衫",
+      "jyutping": "wun6 saam1",
+      "english": "to change clothes",
+      "category": "verbs"
+    },
+    {
+      "chinese": "搭",
+      "jyutping": "daap3",
+      "english": "to take (transport)",
+      "category": "verbs"
+    },
+    {
+      "chinese": "轉",
+      "jyutping": "zyun3",
+      "english": "to turn",
+      "category": "verbs"
+    },
+    {
+      "chinese": "停",
+      "jyutping": "ting4",
+      "english": "to stop",
+      "category": "verbs"
+    },
+    {
+      "chinese": "用",
+      "jyutping": "jung6",
+      "english": "to use",
+      "category": "verbs"
+    },
+    {
+      "chinese": "試",
+      "jyutping": "si3",
+      "english": "to try",
+      "category": "verbs"
+    },
+    {
+      "chinese": "還",
+      "jyutping": "waan4",
+      "english": "to return (something)",
+      "category": "verbs"
+    },
+    {
+      "chinese": "借",
+      "jyutping": "ze3",
+      "english": "to borrow / lend",
+      "category": "verbs"
+    },
+    {
+      "chinese": "交",
+      "jyutping": "gaau1",
+      "english": "to hand in / submit",
+      "category": "verbs"
+    },
+    {
+      "chinese": "改",
+      "jyutping": "goi2",
+      "english": "to change / correct",
+      "category": "verbs"
+    },
+    {
+      "chinese": "學",
+      "jyutping": "hok6",
+      "english": "to study / learn",
+      "category": "verbs"
+    },
+    {
+      "chinese": "教",
+      "jyutping": "gaau3",
+      "english": "to teach",
+      "category": "verbs"
+    },
+    {
+      "chinese": "考試",
+      "jyutping": "haau2 si3",
+      "english": "to take an exam",
+      "category": "verbs"
+    },
+    {
+      "chinese": "工作",
+      "jyutping": "gung1 zok3",
+      "english": "to work",
+      "category": "verbs"
+    },
+    {
+      "chinese": "搬",
+      "jyutping": "bun1",
+      "english": "to move (home)",
+      "category": "verbs"
+    },
+    {
+      "chinese": "整",
+      "jyutping": "zing2",
+      "english": "to fix / make / prepare",
+      "category": "verbs"
+    },
+    {
+      "chinese": "新",
+      "jyutping": "san1",
+      "english": "new",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "舊",
+      "jyutping": "gau6",
+      "english": "old / used",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "長",
+      "jyutping": "coeng4",
+      "english": "long",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "短",
+      "jyutping": "dyun2",
+      "english": "short (length)",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "高",
+      "jyutping": "gou1",
+      "english": "tall / high",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "矮",
+      "jyutping": "ai2",
+      "english": "short (height)",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "重",
+      "jyutping": "cung5",
+      "english": "heavy",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "輕",
+      "jyutping": "hing1",
+      "english": "light (weight)",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "乾淨",
+      "jyutping": "gon1 zeng6",
+      "english": "clean",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "骯髒",
+      "jyutping": "ong1 zong1",
+      "english": "dirty",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "容易",
+      "jyutping": "jung4 ji6",
+      "english": "easy",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "難",
+      "jyutping": "naan4",
+      "english": "difficult",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "忙",
+      "jyutping": "mong4",
+      "english": "busy",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "得閒",
+      "jyutping": "dak1 haan4",
+      "english": "free / not busy",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "安全",
+      "jyutping": "on1 cyun4",
+      "english": "safe",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "危險",
+      "jyutping": "ngai4 him2",
+      "english": "dangerous",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "重要",
+      "jyutping": "cung5 jiu3",
+      "english": "important",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "有趣",
+      "jyutping": "jau5 ceoi3",
+      "english": "interesting",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "無聊",
+      "jyutping": "mou4 liu4",
+      "english": "boring",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "舒服",
+      "jyutping": "syu1 fuk6",
+      "english": "comfortable",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "緊張",
+      "jyutping": "gan2 zoeng1",
+      "english": "nervous / tight",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "放鬆",
+      "jyutping": "fong3 sung1",
+      "english": "relaxed",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "嘈",
+      "jyutping": "cou4",
+      "english": "noisy",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "靜",
+      "jyutping": "zing6",
+      "english": "quiet",
+      "category": "adjectives"
+    },
+    {
+      "chinese": "啩",
+      "jyutping": "gwaa3",
+      "english": "(sentence particle suggesting uncertainty)",
+      "category": "particles"
+    },
+    {
+      "chinese": "囉",
+      "jyutping": "lo3",
+      "english": "(particle indicating obviousness)",
+      "category": "particles"
+    },
+    {
+      "chinese": "喎",
+      "jyutping": "wo3",
+      "english": "(particle for hearsay / soften)",
+      "category": "particles"
+    },
+    {
+      "chinese": "㗎",
+      "jyutping": "gaa3",
+      "english": "(assertive sentence particle)",
+      "category": "particles"
+    },
+    {
+      "chinese": "喇",
+      "jyutping": "laa3",
+      "english": "(particle indicating change of state)",
+      "category": "particles"
+    },
+    {
+      "chinese": "囉喎",
+      "jyutping": "lo3 wo3",
+      "english": "(particle: that's just how it is)",
+      "category": "particles"
+    },
+    {
+      "chinese": "咋",
+      "jyutping": "zaa3",
+      "english": "only / just (particle)",
+      "category": "particles"
+    },
+    {
+      "chinese": "囉囉",
+      "jyutping": "lo3 lo3",
+      "english": "(casual filler particle)",
+      "category": "particles"
+    },
+    {
+      "chinese": "打風",
+      "jyutping": "daa2 fung1",
+      "english": "typhoon",
+      "category": "weather"
+    },
+    {
+      "chinese": "濕",
+      "jyutping": "sap1",
+      "english": "wet / humid",
+      "category": "weather"
+    },
+    {
+      "chinese": "焗",
+      "jyutping": "guk6",
+      "english": "stuffy / muggy",
+      "category": "weather"
+    },
+    {
+      "chinese": "找錢",
+      "jyutping": "zaau2 cin2",
+      "english": "to give change",
+      "category": "shopping"
+    },
+    {
+      "chinese": "收據",
+      "jyutping": "sau1 geoi3",
+      "english": "receipt",
+      "category": "shopping"
+    },
+    {
+      "chinese": "折扣",
+      "jyutping": "zit3 kau3",
+      "english": "discount",
+      "category": "shopping"
+    },
+    {
+      "chinese": "八達通",
+      "jyutping": "baat3 daat6 tung1",
+      "english": "Octopus card",
+      "category": "shopping"
+    },
+    {
+      "chinese": "信用卡",
+      "jyutping": "seon3 jung6 kaat1",
+      "english": "credit card",
+      "category": "shopping"
+    },
+    {
+      "chinese": "現金",
+      "jyutping": "jin6 gam1",
+      "english": "cash",
+      "category": "shopping"
+    },
+    {
+      "chinese": "埋單",
+      "jyutping": "maai4 daan1",
+      "english": "bill / check (at restaurant)",
+      "category": "shopping"
+    },
+    {
+      "chinese": "書",
+      "jyutping": "syu1",
+      "english": "book",
+      "category": "education"
+    },
+    {
+      "chinese": "筆",
+      "jyutping": "bat1",
+      "english": "pen / pencil",
+      "category": "education"
+    },
+    {
+      "chinese": "紙",
+      "jyutping": "zi2",
+      "english": "paper",
+      "category": "education"
+    },
+    {
+      "chinese": "功課",
+      "jyutping": "gung1 fo3",
+      "english": "homework",
+      "category": "education"
+    },
+    {
+      "chinese": "成績",
+      "jyutping": "sing4 zik1",
+      "english": "grade / result",
+      "category": "education"
+    },
+    {
+      "chinese": "課室",
+      "jyutping": "fo3 sat1",
+      "english": "classroom",
+      "category": "education"
+    },
+    {
+      "chinese": "放學",
+      "jyutping": "fong3 hok6",
+      "english": "end of school / school's out",
+      "category": "education"
+    },
+    {
+      "chinese": "大學",
+      "jyutping": "daai6 hok6",
+      "english": "university",
+      "category": "education"
+    },
+    {
+      "chinese": "中學",
+      "jyutping": "zung1 hok6",
+      "english": "secondary school",
+      "category": "education"
+    },
+    {
+      "chinese": "小學",
+      "jyutping": "siu2 hok6",
+      "english": "primary school",
+      "category": "education"
+    }
+  ],
+  "phrases": [
+    {
+      "chinese": "你好嗎？",
+      "jyutping": "nei5 hou2 maa3?",
+      "english": "How are you?",
+      "context": "greeting"
+    },
+    {
+      "chinese": "多謝晒！",
+      "jyutping": "do1 ze6 saai3!",
+      "english": "Thank you very much!",
+      "context": "gratitude"
+    },
+    {
+      "chinese": "我肚餓。",
+      "jyutping": "ngo5 tou5 ngo6.",
+      "english": "I'm hungry.",
+      "context": "feelings"
+    },
+    {
+      "chinese": "幾錢呀？",
+      "jyutping": "gei2 cin2 aa3?",
+      "english": "How much is it?",
+      "context": "shopping"
+    },
+    {
+      "chinese": "唔該借借。",
+      "jyutping": "m4 goi1 ze3 ze3.",
+      "english": "Excuse me (passing through).",
+      "context": "politeness"
+    },
+    {
+      "chinese": "你叫咩名？",
+      "jyutping": "nei5 giu3 me1 meng2?",
+      "english": "What's your name?",
+      "context": "introduction"
+    },
+    {
+      "chinese": "早晨",
+      "jyutping": "zou2 san4",
+      "english": "Good morning",
+      "context": "greeting"
+    },
+    {
+      "chinese": "早抖",
+      "jyutping": "zou2 tau2",
+      "english": "Good night",
+      "context": "greeting"
+    },
+    {
+      "chinese": "聽唔明。",
+      "jyutping": "teng1 m4 ming4.",
+      "english": "Don't understand.",
+      "context": "language"
+    },
+    {
+      "chinese": "識講少少。",
+      "jyutping": "sik1 gong2 siu2 siu2.",
+      "english": "Know how to speak a little.",
+      "context": "language"
+    },
+    {
+      "chinese": "下次再見。",
+      "jyutping": "haa6 ci3 zoi3 gin3.",
+      "english": "See you next time.",
+      "context": "farewell"
+    },
+    {
+      "chinese": "加油！",
+      "jyutping": "gaa1 jau2!",
+      "english": "Keep it up / Go for it!",
+      "context": "encouragement"
+    },
+    {
+      "chinese": "我好攰呀。",
+      "jyutping": "ngo5 hou2 gui6 aa3.",
+      "english": "I'm very tired.",
+      "context": "feelings"
+    },
+    {
+      "chinese": "冇問題。",
+      "jyutping": "mou5 man6 tai4.",
+      "english": "No problem.",
+      "context": "social"
+    },
+    {
+      "chinese": "對唔住。",
+      "jyutping": "deoi3 m4 zyu6.",
+      "english": "I'm sorry.",
+      "context": "politeness"
+    },
+    {
+      "chinese": "一齊食飯？",
+      "jyutping": "jat1 cai4 sik6 faan6?",
+      "english": "Eat together?",
+      "context": "social"
+    },
+    {
+      "chinese": "點去呢度？",
+      "jyutping": "dim2 heoi3 ni1 dou6?",
+      "english": "How do I get here?",
+      "context": "directions"
+    },
+    {
+      "chinese": "你有冇時間？",
+      "jyutping": "nei5 jau5 mou5 si4 gaan1?",
+      "english": "Do you have time?",
+      "context": "social"
+    },
+    {
+      "chinese": "你係邊度人？",
+      "jyutping": "nei5 hai6 bin1 dou6 jan4?",
+      "english": "Where are you from?",
+      "context": "introduction"
+    },
+    {
+      "chinese": "我係香港人。",
+      "jyutping": "ngo5 hai6 hoeng1 gong2 jan4.",
+      "english": "I'm from Hong Kong.",
+      "context": "introduction"
+    },
+    {
+      "chinese": "你住喺邊度？",
+      "jyutping": "nei5 zyu6 hai2 bin1 dou6?",
+      "english": "Where do you live?",
+      "context": "introduction"
+    },
+    {
+      "chinese": "我住喺香港。",
+      "jyutping": "ngo5 zyu6 hai2 hoeng1 gong2.",
+      "english": "I live in Hong Kong.",
+      "context": "introduction"
+    },
+    {
+      "chinese": "你幾歲？",
+      "jyutping": "nei5 gei2 seoi3?",
+      "english": "How old are you?",
+      "context": "introduction"
+    },
+    {
+      "chinese": "你做咩工作？",
+      "jyutping": "nei5 zou6 me1 gung1 zok3?",
+      "english": "What do you do for work?",
+      "context": "introduction"
+    },
+    {
+      "chinese": "好耐冇見。",
+      "jyutping": "hou2 noi6 mou5 gin3.",
+      "english": "Long time no see.",
+      "context": "greeting"
+    },
+    {
+      "chinese": "拜拜！",
+      "jyutping": "baai3 baai3!",
+      "english": "Bye bye!",
+      "context": "farewell"
+    },
+    {
+      "chinese": "保重！",
+      "jyutping": "bou2 zung6!",
+      "english": "Take care!",
+      "context": "farewell"
+    },
+    {
+      "chinese": "你今日點呀？",
+      "jyutping": "nei5 gam1 jat6 dim2 aa3?",
+      "english": "How are you today?",
+      "context": "greeting"
+    },
+    {
+      "chinese": "我好好。",
+      "jyutping": "ngo5 hou2 hou2.",
+      "english": "I'm very good.",
+      "context": "feelings"
+    },
+    {
+      "chinese": "唔係幾好。",
+      "jyutping": "m4 hai6 gei2 hou2.",
+      "english": "Not so great.",
+      "context": "feelings"
+    },
+    {
+      "chinese": "麻麻哋。",
+      "jyutping": "maa4 maa4 dei2.",
+      "english": "So-so.",
+      "context": "feelings"
+    },
+    {
+      "chinese": "我好開心。",
+      "jyutping": "ngo5 hou2 hoi1 sam1.",
+      "english": "I'm very happy.",
+      "context": "feelings"
+    },
+    {
+      "chinese": "我好掛住你。",
+      "jyutping": "ngo5 hou2 gwaa3 zyu6 nei5.",
+      "english": "I miss you a lot.",
+      "context": "feelings"
+    },
+    {
+      "chinese": "我鍾意你。",
+      "jyutping": "ngo5 zung1 ji3 nei5.",
+      "english": "I like you.",
+      "context": "feelings"
+    },
+    {
+      "chinese": "我愛你。",
+      "jyutping": "ngo5 oi3 nei5.",
+      "english": "I love you.",
+      "context": "feelings"
+    },
+    {
+      "chinese": "唔緊要。",
+      "jyutping": "m4 gan2 jiu3.",
+      "english": "It doesn't matter / Never mind.",
+      "context": "social"
+    },
+    {
+      "chinese": "係囉！",
+      "jyutping": "hai6 lo3!",
+      "english": "Exactly! / That's right!",
+      "context": "social"
+    },
+    {
+      "chinese": "真係咩？",
+      "jyutping": "zan1 hai6 me1?",
+      "english": "Really?",
+      "context": "social"
+    },
+    {
+      "chinese": "你係咪認真？",
+      "jyutping": "nei5 hai6 mai6 jing6 zan1?",
+      "english": "Are you serious?",
+      "context": "social"
+    },
+    {
+      "chinese": "點解咁樣？",
+      "jyutping": "dim2 gaai2 gam3 joeng2?",
+      "english": "Why is it like this?",
+      "context": "social"
+    },
+    {
+      "chinese": "算啦。",
+      "jyutping": "syun3 laa3.",
+      "english": "Forget it / Let it go.",
+      "context": "social"
+    },
+    {
+      "chinese": "慢慢嚟。",
+      "jyutping": "maan6 maan2 lai4.",
+      "english": "Take it slow / No rush.",
+      "context": "social"
+    },
+    {
+      "chinese": "好耐冇食。",
+      "jyutping": "hou2 noi6 mou5 sik6.",
+      "english": "Haven't eaten in a long time.",
+      "context": "food"
+    },
+    {
+      "chinese": "好味道！",
+      "jyutping": "hou2 mei6 dou6!",
+      "english": "Delicious! (more formal)",
+      "context": "food"
+    },
+    {
+      "chinese": "我想要呢個。",
+      "jyutping": "ngo5 soeng2 jiu3 ni1 go3.",
+      "english": "I want this one.",
+      "context": "shopping"
+    },
+    {
+      "chinese": "有冇大碼？",
+      "jyutping": "jau5 mou5 daai6 maa5?",
+      "english": "Do you have a larger size?",
+      "context": "shopping"
+    },
+    {
+      "chinese": "可唔可以平啲？",
+      "jyutping": "ho2 m4 ho2 ji3 peng4 di1?",
+      "english": "Can you make it cheaper?",
+      "context": "shopping"
+    },
+    {
+      "chinese": "我用信用卡。",
+      "jyutping": "ngo5 jung6 seon3 jung6 kaat1.",
+      "english": "I'll pay by credit card.",
+      "context": "shopping"
+    },
+    {
+      "chinese": "唔該，埋單。",
+      "jyutping": "m4 goi1, maai4 daan1.",
+      "english": "Excuse me, the bill please.",
+      "context": "shopping"
+    },
+    {
+      "chinese": "去邊度好呢？",
+      "jyutping": "heoi3 bin1 dou6 hou2 ne1?",
+      "english": "Where should we go?",
+      "context": "directions"
+    },
+    {
+      "chinese": "唔該，廁所喺邊？",
+      "jyutping": "m4 goi1, ci3 so2 hai2 bin1?",
+      "english": "Excuse me, where is the bathroom?",
+      "context": "directions"
+    },
+    {
+      "chinese": "行幾耐？",
+      "jyutping": "haang4 gei2 noi6?",
+      "english": "How long does it take to walk?",
+      "context": "directions"
+    },
+    {
+      "chinese": "搭咩車好？",
+      "jyutping": "daap3 me1 ce1 hou2?",
+      "english": "Which transport should I take?",
+      "context": "directions"
+    },
+    {
+      "chinese": "喺左手邊。",
+      "jyutping": "hai2 zo2 sau2 bin1.",
+      "english": "It's on the left side.",
+      "context": "directions"
+    },
+    {
+      "chinese": "喺右手邊。",
+      "jyutping": "hai2 jau6 sau2 bin1.",
+      "english": "It's on the right side.",
+      "context": "directions"
+    },
+    {
+      "chinese": "直行落去。",
+      "jyutping": "zik6 haang4 lok6 heoi3.",
+      "english": "Keep going straight.",
+      "context": "directions"
+    },
+    {
+      "chinese": "我唔舒服。",
+      "jyutping": "ngo5 m4 syu1 fuk6.",
+      "english": "I don't feel well.",
+      "context": "health"
+    },
+    {
+      "chinese": "我要睇醫生。",
+      "jyutping": "ngo5 jiu3 tai2 ji1 sang1.",
+      "english": "I need to see a doctor.",
+      "context": "health"
+    },
+    {
+      "chinese": "你有冇發燒？",
+      "jyutping": "nei5 jau5 mou5 faat3 siu1?",
+      "english": "Do you have a fever?",
+      "context": "health"
+    },
+    {
+      "chinese": "食藥先。",
+      "jyutping": "sik6 joek6 sin1.",
+      "english": "Take medicine first.",
+      "context": "health"
+    },
+    {
+      "chinese": "小心！",
+      "jyutping": "siu2 sam1!",
+      "english": "Be careful!",
+      "context": "warnings"
+    },
+    {
+      "chinese": "救命！",
+      "jyutping": "gau3 meng6!",
+      "english": "Help! (emergency)",
+      "context": "warnings"
+    },
+    {
+      "chinese": "唔好咁做！",
+      "jyutping": "m4 hou2 gam3 zou6!",
+      "english": "Don't do that!",
+      "context": "warnings"
+    },
+    {
+      "chinese": "打九九九。",
+      "jyutping": "daa2 gau2 gau2 gau2.",
+      "english": "Call 999 (emergency).",
+      "context": "warnings"
+    },
+    {
+      "chinese": "今日天氣點？",
+      "jyutping": "gam1 jat6 tin1 hei3 dim2?",
+      "english": "What's the weather like today?",
+      "context": "weather"
+    },
+    {
+      "chinese": "好大風喎。",
+      "jyutping": "hou2 daai6 fung1 wo3.",
+      "english": "The wind is very strong.",
+      "context": "weather"
+    },
+    {
+      "chinese": "落緊雨。",
+      "jyutping": "lok6 gan2 jyu5.",
+      "english": "It's raining right now.",
+      "context": "weather"
+    },
+    {
+      "chinese": "好凍呀！",
+      "jyutping": "hou2 dung3 aa3!",
+      "english": "It's so cold!",
+      "context": "weather"
+    },
+    {
+      "chinese": "好熱呀！",
+      "jyutping": "hou2 jit6 aa3!",
+      "english": "It's so hot!",
+      "context": "weather"
+    },
+    {
+      "chinese": "打風放假。",
+      "jyutping": "daa2 fung1 fong3 gaa3.",
+      "english": "Day off because of typhoon.",
+      "context": "weather"
+    },
+    {
+      "chinese": "你得唔得閒？",
+      "jyutping": "nei5 dak1 m4 dak1 haan4?",
+      "english": "Are you free?",
+      "context": "social"
+    },
+    {
+      "chinese": "我而家有嘢做。",
+      "jyutping": "ngo5 ji4 gaa1 jau5 je5 zou6.",
+      "english": "I have something to do right now.",
+      "context": "social"
+    },
+    {
+      "chinese": "我哋去飲茶！",
+      "jyutping": "ngo5 dei6 heoi3 jam2 caa4!",
+      "english": "Let's go for dim sum!",
+      "context": "food"
+    },
+    {
+      "chinese": "要唔要加位？",
+      "jyutping": "jiu3 m4 jiu3 gaa1 wai2?",
+      "english": "Do you need an extra seat?",
+      "context": "food"
+    },
+    {
+      "chinese": "我係素食者。",
+      "jyutping": "ngo5 hai6 sou3 sik6 ze2.",
+      "english": "I'm vegetarian.",
+      "context": "food"
+    },
+    {
+      "chinese": "唔食辣。",
+      "jyutping": "m4 sik6 laat6.",
+      "english": "I don't eat spicy food.",
+      "context": "food"
+    },
+    {
+      "chinese": "對花生敏感。",
+      "jyutping": "deoi3 faa1 sang1 man5 gam2.",
+      "english": "Allergic to peanuts.",
+      "context": "health"
+    },
+    {
+      "chinese": "你識唔識講廣東話？",
+      "jyutping": "nei5 sik1 m4 sik1 gong2 gwong2 dung1 waa2?",
+      "english": "Can you speak Cantonese?",
+      "context": "language"
+    },
+    {
+      "chinese": "我學緊廣東話。",
+      "jyutping": "ngo5 hok6 gan2 gwong2 dung1 waa2.",
+      "english": "I'm learning Cantonese.",
+      "context": "language"
+    },
+    {
+      "chinese": "請講慢啲。",
+      "jyutping": "cing2 gong2 maan6 di1.",
+      "english": "Please speak more slowly.",
+      "context": "language"
+    },
+    {
+      "chinese": "唔該再講多次。",
+      "jyutping": "m4 goi1 zoi3 gong2 do1 ci3.",
+      "english": "Please say it again.",
+      "context": "language"
+    },
+    {
+      "chinese": "呢個粵語點講？",
+      "jyutping": "ni1 go3 jyut6 jyu5 dim2 gong2?",
+      "english": "How do you say this in Cantonese?",
+      "context": "language"
+    },
+    {
+      "chinese": "我聽唔清楚。",
+      "jyutping": "ngo5 teng1 m4 cing1 co2.",
+      "english": "I can't hear clearly.",
+      "context": "language"
+    },
+    {
+      "chinese": "你好叻！",
+      "jyutping": "nei5 hou2 lek1!",
+      "english": "You're so smart / talented!",
+      "context": "compliments"
+    },
+    {
+      "chinese": "你靚咗！",
+      "jyutping": "nei5 leng3 zo2!",
+      "english": "You've gotten prettier!",
+      "context": "compliments"
+    },
+    {
+      "chinese": "你廋咗！",
+      "jyutping": "nei5 sau3 zo2!",
+      "english": "You've lost weight!",
+      "context": "compliments"
+    },
+    {
+      "chinese": "你嘅廣東話好掂！",
+      "jyutping": "nei5 ge3 gwong2 dung1 waa2 hou2 dim3!",
+      "english": "Your Cantonese is excellent!",
+      "context": "compliments"
+    },
+    {
+      "chinese": "我唔係幾明。",
+      "jyutping": "ngo5 m4 hai6 gei2 ming4.",
+      "english": "I don't quite understand.",
+      "context": "language"
+    },
+    {
+      "chinese": "你講乜嘢？",
+      "jyutping": "nei5 gong2 mat1 je5?",
+      "english": "What did you say?",
+      "context": "language"
+    },
+    {
+      "chinese": "唔該你幫我。",
+      "jyutping": "m4 goi1 nei5 bong1 ngo5.",
+      "english": "Please help me.",
+      "context": "requests"
+    },
+    {
+      "chinese": "可唔可以等我？",
+      "jyutping": "ho2 m4 ho2 ji3 dang2 ngo5?",
+      "english": "Can you wait for me?",
+      "context": "requests"
+    },
+    {
+      "chinese": "借我用一用。",
+      "jyutping": "ze3 ngo5 jung6 jat1 jung6.",
+      "english": "Let me borrow it for a bit.",
+      "context": "requests"
+    },
+    {
+      "chinese": "唔好意思打擾你。",
+      "jyutping": "m4 hou2 ji3 si1 daa2 jiu2 nei5.",
+      "english": "Sorry to bother you.",
+      "context": "politeness"
+    },
+    {
+      "chinese": "我遲到咗，對唔住。",
+      "jyutping": "ngo5 ci4 dou3 zo2, deoi3 m4 zyu6.",
+      "english": "I'm late, I'm sorry.",
+      "context": "politeness"
+    },
+    {
+      "chinese": "唔使客氣。",
+      "jyutping": "m4 sai2 haak3 hei3.",
+      "english": "No need to be polite / You're welcome.",
+      "context": "politeness"
+    },
+    {
+      "chinese": "多謝你幫我。",
+      "jyutping": "do1 ze6 nei5 bong1 ngo5.",
+      "english": "Thank you for helping me.",
+      "context": "gratitude"
+    },
+    {
+      "chinese": "幸會幸會。",
+      "jyutping": "hang6 wui6 hang6 wui6.",
+      "english": "Nice to meet you (formal).",
+      "context": "introduction"
+    },
+    {
+      "chinese": "你有冇 WhatsApp？",
+      "jyutping": "nei5 jau5 mou5 wats1 ep1?",
+      "english": "Do you have WhatsApp?",
+      "context": "social"
+    },
+    {
+      "chinese": "加我微信。",
+      "jyutping": "gaa1 ngo5 mei4 seon3.",
+      "english": "Add me on WeChat.",
+      "context": "social"
+    },
+    {
+      "chinese": "係唔係真㗎？",
+      "jyutping": "hai6 m4 hai6 zan1 gaa3?",
+      "english": "Is it real / true?",
+      "context": "social"
+    },
+    {
+      "chinese": "你諗住點？",
+      "jyutping": "nei5 nam2 zyu6 dim2?",
+      "english": "What are you planning to do?",
+      "context": "social"
+    },
+    {
+      "chinese": "一齊去玩？",
+      "jyutping": "jat1 cai4 heoi3 waan2?",
+      "english": "Hang out together?",
+      "context": "social"
+    },
+    {
+      "chinese": "今晚有冇嘢做？",
+      "jyutping": "gam1 maan5 jau5 mou5 je5 zou6?",
+      "english": "Are you free tonight?",
+      "context": "social"
+    },
+    {
+      "chinese": "祝你生日快樂！",
+      "jyutping": "zuk1 nei5 saang1 jat6 faai3 lok6!",
+      "english": "Happy Birthday!",
+      "context": "celebrations"
+    },
+    {
+      "chinese": "新年快樂！",
+      "jyutping": "san1 nin4 faai3 lok6!",
+      "english": "Happy New Year!",
+      "context": "celebrations"
+    },
+    {
+      "chinese": "恭喜發財！",
+      "jyutping": "gung1 hei2 faat3 coi4!",
+      "english": "Wishing you prosperity! (CNY)",
+      "context": "celebrations"
+    },
+    {
+      "chinese": "聖誕快樂！",
+      "jyutping": "sing3 daan3 faai3 lok6!",
+      "english": "Merry Christmas!",
+      "context": "celebrations"
+    },
+    {
+      "chinese": "一路順風！",
+      "jyutping": "jat1 lou6 seon6 fung1!",
+      "english": "Have a safe trip!",
+      "context": "farewell"
+    }
+  ]
+}

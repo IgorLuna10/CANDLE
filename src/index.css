@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-gray-900 transition-colors duration-300 min-h-screen;
+  }
+  body.dark {
+    @apply bg-[#0f0f0f] text-gray-100;
+  }
+}
+
+.card-shadow {
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.dark .card-shadow {
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.5);
+}
